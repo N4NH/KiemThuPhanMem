@@ -1,4 +1,4 @@
-# KiemThuPhanMem
+# KiemThuPhanMem - Software Testing
 
 Bài tập chương 1:
 
@@ -9,6 +9,6 @@ Bài tập chương 2:
 
 Yêu cầu 1: https://www.programiz.com/online-compiler/9X1AKkYWDQHH5
 
-Yêu cầu 2: 
+Yêu cầu 2: (Đang cập nhập)
 
 
