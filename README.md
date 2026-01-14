@@ -11,17 +11,17 @@ Mỗi chương sẽ có mô tả bài tập và kết quả thực hành nếu �
 
 ## 📝 Nội dung bài tập
 
-### ✅ Chương 1 – Bài tập
+###  Chương 1 – Bài tập
 
 - **Trạng thái:** Hoàn thành ✅  
 - Bài tập liên quan đến kỹ thuật thử nghiệm phần mềm. 
 
-📷 **Hình ảnh minh họa kết quả:**
+ **Hình ảnh minh họa kết quả:**
 ![Kết quả Chương 1](image.png) 
 
 ---
 
-### ⚙️ Chương 2 – Bài tập
+###  Chương 2 – Bài tập
 
 - **Yêu cầu 1:** Thực hành kiểm thử với *Online Compiler* (Programiz) — hướng dẫn tại:  
   https://www.programiz.com/online-compiler/9X1AKkYWDQHH5 
