@@ -14,7 +14,7 @@ Mỗi chương sẽ có mô tả bài tập và kết quả thực hành nếu �
 ### ✅ Chương 1 – Bài tập
 
 - **Trạng thái:** Hoàn thành ✅  
-- Bài tập liên quan đến các khái niệm kiểm thử cơ bản và kỹ thuật thử nghiệm phần mềm. 
+- Bài tập liên quan đến kỹ thuật thử nghiệm phần mềm. 
 
 📷 **Hình ảnh minh họa kết quả:**
 ![Kết quả Chương 1](image.png) 
