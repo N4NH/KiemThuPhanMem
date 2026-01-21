@@ -25,7 +25,7 @@ Mỗi chương sẽ có mô tả bài tập và kết quả thực hành nếu �
 
 - **Yêu cầu 1:** Thực hành kiểm thử với *Online Compiler* (Programiz) — hướng dẫn tại:  
   https://www.programiz.com/online-compiler/9X1AKkYWDQHH5 
-- **Yêu cầu 2:** *(Đang cập nhật…)* ✍️ 
+- **Yêu cầu 2:** Nằm trong thư mục uni-test 
 
 ---
 
