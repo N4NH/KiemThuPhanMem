@@ -31,6 +31,7 @@ Mỗi chương sẽ có mô tả bài tập và kết quả thực hành nếu �
 
 ###  Chương 3 – Bài tập
 
+- **Trạng thái:** Hoàn thành ✅  
 - **Nằm trong BaiChuong3**
 
 ---
@@ -38,6 +39,7 @@ Mỗi chương sẽ có mô tả bài tập và kết quả thực hành nếu �
 
 ### Chương 4 - Bài tập
 
+- **Trạng thái:** Hoàn thành ✅  
 - **Nằm trong BaiChuong4**
 
 ---
