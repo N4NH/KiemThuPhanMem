@@ -1,0 +1,85 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1769407135474,553,HTTP Request - Homepage,200,OK,Thread Group 1: Basic Load 1-1,text,true,,195761,196,1,1,https://www.wikipedia.org/,403,0,349
+1769407136033,401,HTTP Request - Homepage,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,195762,196,1,1,https://www.wikipedia.org/,192,0,140
+1769407136435,1029,HTTP Request - Random Article,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,70138,643,1,1,https://en.wikipedia.org/wiki/Swiss_mini_gun,66,0,0
+1769407136435,66,HTTP Request - Random Article-0,301,Moved Permanently,Thread Group 2: Heavy Load 2-1,text,true,,1844,215,1,1,https://www.wikipedia.org/wiki/Special:Random,66,0,0
+1769407136502,462,HTTP Request - Random Article-1,302,Found,Thread Group 2: Heavy Load 2-1,text,true,,1640,214,1,1,https://en.wikipedia.org/wiki/Special:Random,462,0,159
+1769407136964,500,HTTP Request - Random Article-2,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,66654,214,1,1,https://en.wikipedia.org/wiki/Swiss_mini_gun,318,0,0
+1769407137465,89,HTTP Request - Homepage,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,195762,196,1,1,https://www.wikipedia.org/,41,0,0
+1769407137555,1609,HTTP Request - Random Article,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,97950,643,1,1,https://en.wikipedia.org/wiki/Diogo_Carvalho,52,0,0
+1769407137555,52,HTTP Request - Random Article-0,301,Moved Permanently,Thread Group 2: Heavy Load 2-1,text,true,,1844,215,1,1,https://www.wikipedia.org/wiki/Special:Random,52,0,0
+1769407137607,322,HTTP Request - Random Article-1,302,Found,Thread Group 2: Heavy Load 2-1,text,true,,1640,214,1,1,https://en.wikipedia.org/wiki/Special:Random,322,0,0
+1769407137929,1235,HTTP Request - Random Article-2,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,94466,214,1,1,https://en.wikipedia.org/wiki/Diogo_Carvalho,1158,0,0
+1769407139164,73,HTTP Request - Homepage,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,195762,196,1,1,https://www.wikipedia.org/,48,0,0
+1769407139238,1639,HTTP Request - Random Article,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,81850,656,1,1,https://en.wikipedia.org/wiki/Dumb_Dora_Discovers_Tobacco,71,0,0
+1769407139238,71,HTTP Request - Random Article-0,301,Moved Permanently,Thread Group 2: Heavy Load 2-1,text,true,,1844,215,1,1,https://www.wikipedia.org/wiki/Special:Random,71,0,0
+1769407139309,284,HTTP Request - Random Article-1,302,Found,Thread Group 2: Heavy Load 2-1,text,true,,1653,214,1,1,https://en.wikipedia.org/wiki/Special:Random,284,0,0
+1769407139594,1283,HTTP Request - Random Article-2,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,78353,227,1,1,https://en.wikipedia.org/wiki/Dumb_Dora_Discovers_Tobacco,1263,0,0
+1769407140880,69,HTTP Request - Homepage,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,195762,196,1,1,https://www.wikipedia.org/,39,0,0
+1769407140950,771,HTTP Request - Random Article,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,72627,644,1,1,https://en.wikipedia.org/wiki/Israel_Holmgren,43,0,0
+1769407140950,43,HTTP Request - Random Article-0,301,Moved Permanently,Thread Group 2: Heavy Load 2-1,text,true,,1844,215,1,1,https://www.wikipedia.org/wiki/Special:Random,43,0,0
+1769407140994,328,HTTP Request - Random Article-1,302,Found,Thread Group 2: Heavy Load 2-1,text,true,,1641,214,1,1,https://en.wikipedia.org/wiki/Special:Random,328,0,0
+1769407141322,399,HTTP Request - Random Article-2,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,69142,215,1,1,https://en.wikipedia.org/wiki/Israel_Holmgren,392,0,0
+1769407141722,72,HTTP Request - Homepage,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,195762,196,1,1,https://www.wikipedia.org/,44,0,0
+1769407141794,1504,HTTP Request - Random Article,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,110823,661,1,1,https://en.wikipedia.org/wiki/Academia_Colombiana_de_la_Lengua,42,0,0
+1769407141794,43,HTTP Request - Random Article-0,301,Moved Permanently,Thread Group 2: Heavy Load 2-1,text,true,,1844,215,1,1,https://www.wikipedia.org/wiki/Special:Random,42,0,0
+1769407141837,297,HTTP Request - Random Article-1,302,Found,Thread Group 2: Heavy Load 2-1,text,true,,1658,214,1,1,https://en.wikipedia.org/wiki/Special:Random,297,0,0
+1769407142134,1164,HTTP Request - Random Article-2,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,107321,232,1,1,https://en.wikipedia.org/wiki/Academia_Colombiana_de_la_Lengua,1134,0,0
+1769407143299,73,HTTP Request - Homepage,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,195762,196,1,1,https://www.wikipedia.org/,42,0,0
+1769407143373,1179,HTTP Request - Random Article,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,55443,661,1,1,https://en.wikipedia.org/wiki/Unsaturated_glucuronyl_hydrolase,43,0,0
+1769407143373,43,HTTP Request - Random Article-0,301,Moved Permanently,Thread Group 2: Heavy Load 2-1,text,true,,1844,215,1,1,https://www.wikipedia.org/wiki/Special:Random,43,0,0
+1769407143416,295,HTTP Request - Random Article-1,302,Found,Thread Group 2: Heavy Load 2-1,text,true,,1658,214,1,1,https://en.wikipedia.org/wiki/Special:Random,295,0,0
+1769407143711,841,HTTP Request - Random Article-2,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,51941,232,1,1,https://en.wikipedia.org/wiki/Unsaturated_glucuronyl_hydrolase,840,0,0
+1769407144553,83,HTTP Request - Homepage,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,195762,196,1,1,https://www.wikipedia.org/,61,0,0
+1769407144636,1802,HTTP Request - Random Article,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,99100,652,1,1,https://en.wikipedia.org/wiki/Konstantinos_A._Dimadis,75,0,0
+1769407144636,76,HTTP Request - Random Article-0,301,Moved Permanently,Thread Group 2: Heavy Load 2-1,text,true,,1845,215,1,1,https://www.wikipedia.org/wiki/Special:Random,75,0,0
+1769407144712,326,HTTP Request - Random Article-1,302,Found,Thread Group 2: Heavy Load 2-1,text,true,,1649,214,1,1,https://en.wikipedia.org/wiki/Special:Random,326,0,0
+1769407145039,1399,HTTP Request - Random Article-2,200,OK,Thread Group 2: Heavy Load 2-1,text,true,,95606,223,1,1,https://en.wikipedia.org/wiki/Konstantinos_A._Dimadis,1397,0,0
+1769407146441,4026,HTTP Request - Portal:Arts,200,OK,Thread Group 3: Custom Load 3-1,text,true,,393292,423,1,1,https://en.wikipedia.org/wiki/Portal:Arts,354,0,101
+1769407146441,354,HTTP Request - Portal:Arts-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1823,212,1,1,https://www.wikipedia.org/wiki/Portal:Arts,354,0,101
+1769407146796,3671,HTTP Request - Portal:Arts-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,391469,211,1,1,https://en.wikipedia.org/wiki/Portal:Arts,3467,0,133
+1769407150467,1851,HTTP Request - Portal:History,200,OK,Thread Group 3: Custom Load 3-1,text,true,,443264,429,1,1,https://en.wikipedia.org/wiki/Portal:History,268,0,0
+1769407150467,268,HTTP Request - Portal:History-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1829,215,1,1,https://www.wikipedia.org/wiki/Portal:History,268,0,0
+1769407150735,1583,HTTP Request - Portal:History-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,441435,214,1,1,https://en.wikipedia.org/wiki/Portal:History,1339,0,0
+1769407152318,263,HTTP Request - Portal:Arts,200,OK,Thread Group 3: Custom Load 3-1,text,true,,393075,423,1,1,https://en.wikipedia.org/wiki/Portal:Arts,66,0,0
+1769407152318,66,HTTP Request - Portal:Arts-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1834,212,1,1,https://www.wikipedia.org/wiki/Portal:Arts,66,0,0
+1769407152384,197,HTTP Request - Portal:Arts-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,391241,211,1,1,https://en.wikipedia.org/wiki/Portal:Arts,66,0,0
+1769407152582,230,HTTP Request - Portal:History,200,OK,Thread Group 3: Custom Load 3-1,text,true,,442997,429,1,1,https://en.wikipedia.org/wiki/Portal:History,58,0,0
+1769407152582,58,HTTP Request - Portal:History-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1840,215,1,1,https://www.wikipedia.org/wiki/Portal:History,58,0,0
+1769407152640,172,HTTP Request - Portal:History-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,441157,214,1,1,https://en.wikipedia.org/wiki/Portal:History,40,0,0
+1769407152813,250,HTTP Request - Portal:Arts,200,OK,Thread Group 3: Custom Load 3-1,text,true,,393075,423,1,1,https://en.wikipedia.org/wiki/Portal:Arts,45,0,0
+1769407152813,45,HTTP Request - Portal:Arts-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1834,212,1,1,https://www.wikipedia.org/wiki/Portal:Arts,45,0,0
+1769407152858,205,HTTP Request - Portal:Arts-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,391241,211,1,1,https://en.wikipedia.org/wiki/Portal:Arts,44,0,0
+1769407153063,272,HTTP Request - Portal:History,200,OK,Thread Group 3: Custom Load 3-1,text,true,,442997,429,1,1,https://en.wikipedia.org/wiki/Portal:History,60,0,0
+1769407153063,60,HTTP Request - Portal:History-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1840,215,1,1,https://www.wikipedia.org/wiki/Portal:History,60,0,0
+1769407153123,212,HTTP Request - Portal:History-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,441157,214,1,1,https://en.wikipedia.org/wiki/Portal:History,74,0,0
+1769407153336,257,HTTP Request - Portal:Arts,200,OK,Thread Group 3: Custom Load 3-1,text,true,,393075,423,1,1,https://en.wikipedia.org/wiki/Portal:Arts,57,0,0
+1769407153336,57,HTTP Request - Portal:Arts-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1834,212,1,1,https://www.wikipedia.org/wiki/Portal:Arts,57,0,0
+1769407153393,200,HTTP Request - Portal:Arts-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,391241,211,1,1,https://en.wikipedia.org/wiki/Portal:Arts,45,0,0
+1769407153596,333,HTTP Request - Portal:History,200,OK,Thread Group 3: Custom Load 3-1,text,true,,442997,429,1,1,https://en.wikipedia.org/wiki/Portal:History,55,0,0
+1769407153596,55,HTTP Request - Portal:History-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1840,215,1,1,https://www.wikipedia.org/wiki/Portal:History,55,0,0
+1769407153651,278,HTTP Request - Portal:History-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,441157,214,1,1,https://en.wikipedia.org/wiki/Portal:History,138,0,0
+1769407153929,315,HTTP Request - Portal:Arts,200,OK,Thread Group 3: Custom Load 3-1,text,true,,393076,423,1,1,https://en.wikipedia.org/wiki/Portal:Arts,64,0,0
+1769407153929,64,HTTP Request - Portal:Arts-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1834,212,1,1,https://www.wikipedia.org/wiki/Portal:Arts,64,0,0
+1769407153993,251,HTTP Request - Portal:Arts-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,391242,211,1,1,https://en.wikipedia.org/wiki/Portal:Arts,132,0,0
+1769407154245,328,HTTP Request - Portal:History,200,OK,Thread Group 3: Custom Load 3-1,text,true,,442997,429,1,1,https://en.wikipedia.org/wiki/Portal:History,40,0,0
+1769407154245,40,HTTP Request - Portal:History-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1840,215,1,1,https://www.wikipedia.org/wiki/Portal:History,40,0,0
+1769407154285,288,HTTP Request - Portal:History-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,441157,214,1,1,https://en.wikipedia.org/wiki/Portal:History,48,0,0
+1769407154573,405,HTTP Request - Portal:Arts,200,OK,Thread Group 3: Custom Load 3-1,text,true,,393076,423,1,1,https://en.wikipedia.org/wiki/Portal:Arts,169,0,0
+1769407154573,169,HTTP Request - Portal:Arts-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1834,212,1,1,https://www.wikipedia.org/wiki/Portal:Arts,169,0,0
+1769407154742,236,HTTP Request - Portal:Arts-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,391242,211,1,1,https://en.wikipedia.org/wiki/Portal:Arts,101,0,0
+1769407154979,371,HTTP Request - Portal:History,200,OK,Thread Group 3: Custom Load 3-1,text,true,,442997,429,1,1,https://en.wikipedia.org/wiki/Portal:History,62,0,0
+1769407154979,62,HTTP Request - Portal:History-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1840,215,1,1,https://www.wikipedia.org/wiki/Portal:History,62,0,0
+1769407155042,308,HTTP Request - Portal:History-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,441157,214,1,1,https://en.wikipedia.org/wiki/Portal:History,114,0,0
+1769407155351,342,HTTP Request - Portal:Arts,200,OK,Thread Group 3: Custom Load 3-1,text,true,,393076,423,1,1,https://en.wikipedia.org/wiki/Portal:Arts,104,0,0
+1769407155351,104,HTTP Request - Portal:Arts-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1834,212,1,1,https://www.wikipedia.org/wiki/Portal:Arts,104,0,0
+1769407155455,238,HTTP Request - Portal:Arts-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,391242,211,1,1,https://en.wikipedia.org/wiki/Portal:Arts,208,0,0
+1769407155694,410,HTTP Request - Portal:History,200,OK,Thread Group 3: Custom Load 3-1,text,true,,442997,429,1,1,https://en.wikipedia.org/wiki/Portal:History,69,0,0
+1769407155694,69,HTTP Request - Portal:History-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1840,215,1,1,https://www.wikipedia.org/wiki/Portal:History,69,0,0
+1769407155763,341,HTTP Request - Portal:History-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,441157,214,1,1,https://en.wikipedia.org/wiki/Portal:History,91,0,0
+1769407156104,271,HTTP Request - Portal:Arts,200,OK,Thread Group 3: Custom Load 3-1,text,true,,393076,423,1,1,https://en.wikipedia.org/wiki/Portal:Arts,54,0,0
+1769407156104,54,HTTP Request - Portal:Arts-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1834,212,1,1,https://www.wikipedia.org/wiki/Portal:Arts,54,0,0
+1769407156158,217,HTTP Request - Portal:Arts-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,391242,211,1,1,https://en.wikipedia.org/wiki/Portal:Arts,47,0,0
+1769407156375,342,HTTP Request - Portal:History,200,OK,Thread Group 3: Custom Load 3-1,text,true,,442997,429,1,1,https://en.wikipedia.org/wiki/Portal:History,78,0,0
+1769407156375,78,HTTP Request - Portal:History-0,301,Moved Permanently,Thread Group 3: Custom Load 3-1,text,true,,1840,215,1,1,https://www.wikipedia.org/wiki/Portal:History,78,0,0
+1769407156453,264,HTTP Request - Portal:History-1,200,OK,Thread Group 3: Custom Load 3-1,text,true,,441157,214,1,1,https://en.wikipedia.org/wiki/Portal:History,52,0,0
