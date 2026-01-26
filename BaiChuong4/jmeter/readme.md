@@ -7,8 +7,6 @@
 - **Ngày thực hiện**: 24/1/2026
 
 ## 2. Kịch bản kiểm thử (Test Scenarios)
-- **Kết quả kiểm thử gộp**:
-  <img width="1514" height="856" alt="image" src="https://github.com/user-attachments/assets/96675788-5a69-410c-aa80-5e2cceb0684a" />
 
 ### Kịch bản 1: Cơ bản (Basic Load)
 - **Cấu hình**: 10 users, 5 loops.
