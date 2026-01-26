@@ -26,17 +26,20 @@
 ## 3. Kết quả Kiểm thử
 
 ### Thread Group 1 (Basic)
-*(Kết quả chạy thử mẫu)*
+![Kết quả kiểm thử gộp](result_summary.png)
+*(Kết quả chạy gộp các kịch bản)*
 - **Average Response Time**: ~400 ms
 - **Throughput**: ~1.8 req/sec
 - **Error %**: 0% (Sau khi thêm User-Agent)
 
 ### Thread Group 2 (Heavy)
+![Kết quả kiểm thử gộp](result_summary.png)
 *(Kết quả chạy thử mẫu)*
 - **Average Response Time**: ~500 ms (Redirects ~300ms, Page Load ~1000ms)
 - **Error %**: 0%
 
 ### Thread Group 3 (Custom)
+![Kết quả kiểm thử gộp](result_summary.png)
 *(Kết quả chạy thử mẫu)*
 - **Average Response Time**: ~300 ms
 - **Error %**: 0%
